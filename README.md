@@ -1,6 +1,6 @@
-# Comecando com Spring MVC
+# Starting with Spring MVC
 Aplicação realizando CRUD com Spring MVC.
-## Construído com
+## Built with
 * [Spring Framework](http://projects.spring.io/spring-framework/) - Core support for dependency injection, transaction management, web applications, data access, messaging, testing and more.
 * [Spring Boot](https://projects.spring.io/spring-boot/) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
 * [Spring Data](http://projects.spring.io/spring-data/) - Spring Data’s mission is to provide a familiar and consistent, Spring-based programming model for data access while still retaining the special traits of the underlying data store. 
